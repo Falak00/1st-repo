@@ -1,1 +1,13 @@
-hi
+words ooposite
+hi , bye
+in , out
+on , off
+yes , no
+low , high
+left , right
+top , bottom
+less , more
+smaller , greater
+light , dark
+pull , push
+open , close
